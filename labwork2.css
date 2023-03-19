@@ -1,0 +1,85 @@
+.top{
+	
+	 width:100%;
+	 height:130px;
+	 background-color:darkblue;
+	 color:white;
+	 text-transform:capitalize;
+	 text-align:center;
+	 font-size:50px;
+	 padding-top:20px;
+}
+.faltu{
+	  font-size:30px;
+	  letter-spacing:10px;
+	
+}
+.motu {
+	 
+	background-color:black;
+	word-spacing:100px;
+	text-indent:350px;
+	height:35px;
+	
+	
+	 
+}
+.motu a{
+	color: white;
+	font-size:20px;
+	text-decoration:none;
+	text-transform:capitalize;
+	line-height:36px;
+
+}
+.motu a: hover{
+	color:yellow;
+}
+ 
+ 
+ .row{
+	  display:flex;
+	  flex :row;
+	  padding:10px;
+ }
+ .first{
+	  width:10%;
+	 
+ }
+.first p a{
+	 text-decoration:none;
+	 font-size:20px;
+	 line-height:40px;
+}
+ .second{
+	 width:80%;
+	 height:500px;
+	 background-color:#bed1e7;
+	 
+ }
+ .second iframe {
+	 
+	 width:100%;
+	 height:100%;
+	  
+ }
+ 
+ .third {
+	 width:10%;
+	 margin-left:30px;
+	 
+ }
+ .third p{
+	 font-size:20px;
+	 line-height:40px;
+	 
+ }
+	 
+	 
+ .footer{
+	 text-align:center;
+	 background-color:gray;
+	 font-size:30px;
+ }
+
+
